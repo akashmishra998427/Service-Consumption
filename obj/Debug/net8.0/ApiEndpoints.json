@@ -1,0 +1,96 @@
+[
+  {
+    "ContainingType": "ServiceConsumption.Controllers.CunsumeApiByFakeApiController",
+    "Method": "GetProducts",
+    "RelativePath": "api/CunsumeApiByFakeApi/Product",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceConsumption.Controllers.CunsumeApiByFakeApiController",
+    "Method": "AddProduct",
+    "RelativePath": "api/CunsumeApiByFakeApi/Product",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Entity",
+        "Type": "ServiceConsumption.Models.Entity.AddProductsEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceConsumption.Controllers.CunsumeApiByFakeApiController",
+    "Method": "GetProduct",
+    "RelativePath": "api/CunsumeApiByFakeApi/Product{ID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceConsumption.Controllers.CunsumeServiceController",
+    "Method": "GetExternolApiData",
+    "RelativePath": "api/CunsumeService/GetPost",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceConsumption.Controllers.CunsumeServiceController",
+    "Method": "GetPostDatabyID",
+    "RelativePath": "api/CunsumeService/GetPostDatabyID/{ID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceConsumption.Controllers.CunsumeServiceController",
+    "Method": "GetAllPostWithImage",
+    "RelativePath": "api/CunsumeService/GetpostWithImage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceConsumption.Controllers.CunsumeServiceController",
+    "Method": "PostApiData",
+    "RelativePath": "api/CunsumeService/Post",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Entity",
+        "Type": "ServiceConsumption.Models.Entity.PostApiEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
