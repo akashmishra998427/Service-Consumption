@@ -37,3 +37,42 @@ D:\Akash\Akash Data\ApiConsumptionUsingApi\ServiceConsumption\ServiceConsumption
 D:\Akash\Akash Data\ApiConsumptionUsingApi\ServiceConsumption\ServiceConsumption\obj\Debug\net8.0\ServiceConsumption.pdb
 D:\Akash\Akash Data\ApiConsumptionUsingApi\ServiceConsumption\ServiceConsumption\obj\Debug\net8.0\ServiceConsumption.genruntimeconfig.cache
 D:\Akash\Akash Data\ApiConsumptionUsingApi\ServiceConsumption\ServiceConsumption\obj\Debug\net8.0\ref\ServiceConsumption.dll
+D:\ServiceConsumption\ServiceConsumption\bin\Debug\net8.0\appsettings.Development.json
+D:\ServiceConsumption\ServiceConsumption\bin\Debug\net8.0\appsettings.json
+D:\ServiceConsumption\ServiceConsumption\bin\Debug\net8.0\ServiceConsumption.staticwebassets.endpoints.json
+D:\ServiceConsumption\ServiceConsumption\bin\Debug\net8.0\ServiceConsumption.exe
+D:\ServiceConsumption\ServiceConsumption\bin\Debug\net8.0\ServiceConsumption.deps.json
+D:\ServiceConsumption\ServiceConsumption\bin\Debug\net8.0\ServiceConsumption.runtimeconfig.json
+D:\ServiceConsumption\ServiceConsumption\bin\Debug\net8.0\ServiceConsumption.dll
+D:\ServiceConsumption\ServiceConsumption\bin\Debug\net8.0\ServiceConsumption.pdb
+D:\ServiceConsumption\ServiceConsumption\bin\Debug\net8.0\FluentValidation.dll
+D:\ServiceConsumption\ServiceConsumption\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\ServiceConsumption\ServiceConsumption\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\ServiceConsumption\ServiceConsumption\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ServiceConsumption\ServiceConsumption\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ServiceConsumption\ServiceConsumption\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ServiceConsumption\ServiceConsumption\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ServiceConsumption\ServiceConsumption\obj\Debug\net8.0\ServiceConsumption.csproj.AssemblyReference.cache
+D:\ServiceConsumption\ServiceConsumption\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\ServiceConsumption\ServiceConsumption\obj\Debug\net8.0\ServiceConsumption.GeneratedMSBuildEditorConfig.editorconfig
+D:\ServiceConsumption\ServiceConsumption\obj\Debug\net8.0\ServiceConsumption.AssemblyInfoInputs.cache
+D:\ServiceConsumption\ServiceConsumption\obj\Debug\net8.0\ServiceConsumption.AssemblyInfo.cs
+D:\ServiceConsumption\ServiceConsumption\obj\Debug\net8.0\ServiceConsumption.csproj.CoreCompileInputs.cache
+D:\ServiceConsumption\ServiceConsumption\obj\Debug\net8.0\ServiceConsumption.MvcApplicationPartsAssemblyInfo.cs
+D:\ServiceConsumption\ServiceConsumption\obj\Debug\net8.0\ServiceConsumption.MvcApplicationPartsAssemblyInfo.cache
+D:\ServiceConsumption\ServiceConsumption\obj\Debug\net8.0\ServiceConsumption.sourcelink.json
+D:\ServiceConsumption\ServiceConsumption\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\ServiceConsumption\ServiceConsumption\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\ServiceConsumption\ServiceConsumption\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\ServiceConsumption\ServiceConsumption\obj\Debug\net8.0\scopedcss\bundle\ServiceConsumption.styles.css
+D:\ServiceConsumption\ServiceConsumption\obj\Debug\net8.0\staticwebassets.build.json
+D:\ServiceConsumption\ServiceConsumption\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\ServiceConsumption\ServiceConsumption\obj\Debug\net8.0\staticwebassets.development.json
+D:\ServiceConsumption\ServiceConsumption\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\ServiceConsumption\ServiceConsumption\obj\Debug\net8.0\swae.build.ex.cache
+D:\ServiceConsumption\ServiceConsumption\obj\Debug\net8.0\ServiceC.F4DBD98D.Up2Date
+D:\ServiceConsumption\ServiceConsumption\obj\Debug\net8.0\ServiceConsumption.dll
+D:\ServiceConsumption\ServiceConsumption\obj\Debug\net8.0\refint\ServiceConsumption.dll
+D:\ServiceConsumption\ServiceConsumption\obj\Debug\net8.0\ServiceConsumption.pdb
+D:\ServiceConsumption\ServiceConsumption\obj\Debug\net8.0\ServiceConsumption.genruntimeconfig.cache
+D:\ServiceConsumption\ServiceConsumption\obj\Debug\net8.0\ref\ServiceConsumption.dll
